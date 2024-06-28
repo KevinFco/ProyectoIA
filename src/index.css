@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.mainFont{font-family: "Montserrat", sans-serif;}
+.secondaryFont{font-family: "Mina", sans-serif;}  

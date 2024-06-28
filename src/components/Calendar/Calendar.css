@@ -1,0 +1,51 @@
+.fc-daygrid-day-top {
+  color: #1F5B6C;
+  font-family: 'Arial', sans-serif;
+  font-size: 16px; 
+  font-weight: normal; 
+  
+  
+}
+
+
+
+.fc-header-toolbar .fc-button-primary {
+  background-color: transparent !important;
+  border: none;
+  color: #000000 ;
+
+}
+
+
+
+.fc-toolbar-title {
+  font-weight: bold;
+  font-size: 20px; 
+  color: #1F5B6C; 
+}
+
+.fc-daygrid-day {
+  border: none !important; 
+  text-align: center;
+
+}
+.fc-daygrid-day {
+  transition: background-color 0.3s;
+}
+
+.fc-daygrid-day:hover {
+  background-color: #F7D85F;
+}
+
+
+.fc .fc-daygrid-day-frame{
+  min-height: 80%;
+
+}
+
+.fc-daygrid-day-frame {
+  background-color: white !important;
+  text-align: center;
+  
+}
+
